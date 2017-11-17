@@ -13,7 +13,7 @@
     </head>
     <body>
         <%
-            String redirectURL = "http://10.40.195.81/efika/wordpress/";
+            String redirectURL = "http://10.40.195.81/";
             response.sendRedirect(redirectURL);
         %>
     </body> 
